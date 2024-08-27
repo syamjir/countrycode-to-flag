@@ -1,0 +1,19 @@
+{
+  "name": "countrycode-to-flag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/syamjir/countrycode-to-flag.git).git"
+  },
+  "author": "syamjir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamjir/countrycode-to-flag.git)/issues"
+  },
+  "homepage": "https://github.com/syamjir/countrycode-to-flag.git)#readme",
+  "description": ""
+}
