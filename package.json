@@ -9,11 +9,17 @@
     "type": "git",
     "url": "git+ssh://git@github.com/syamjir/countrycode-to-flag.git).git"
   },
+  "keywords": [
+    "country",
+    "flag",
+    "emoji",
+    "converter"
+  ],
   "author": "syamjir",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/syamjir/countrycode-to-flag.git)/issues"
   },
   "homepage": "https://github.com/syamjir/countrycode-to-flag.git)#readme",
-  "description": ""
+  "description": "Convert country codes to flag emojis"
 }
