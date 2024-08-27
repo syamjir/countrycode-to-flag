@@ -16,7 +16,7 @@ This package provides a class, `CountryFlagEmoji`, that allows you to convert co
 To install this package, use npm:
 
 ```bash
-npm install country-flag-emoji
+npm install country-code-flag-emojis
 ```
 
 ## Usage
